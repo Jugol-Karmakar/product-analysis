@@ -5,8 +5,8 @@ const Hero = () => {
   return (
     <div className="hero-container">
       <div className="laptop-title">
-        <h1>Your Next Laptop</h1>
-        <h1 className="blue-color">Your Best Laptop</h1>
+        <h1 className="font-black">Your Next Laptop</h1>
+        <h1 className="blue-color font-black">Your Best Laptop</h1>
         <p>
           Laptops combine all the input/output components and capabilities of a
           desktop computer, including the display screen, small speakers, a
