@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "name": "Fredi Toffano",
+    "image": "https://img.freepik.com/free-photo/photo-attractive-ginger-man-with-satisfied-expression-has-thick-beard_273609-18615.jpg?t=st=1649082134~exp=1649082734~hmac=20c1349af973cecd6a37726ff85b165397d9413768c4d719754aba1d0d7bead7&w=740",
+    "review": "Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.",
+    "rating": 5,
+    "email": "ftoffano0@prlog.org"
+  },
+
+  {
+    "id": 2,
+    "name": "Susanna Petegree",
+    "image": "https://img.freepik.com/free-photo/close-up-photo-young-successful-business-man-black-suit_171337-9509.jpg?t=st=1649082134~exp=1649082734~hmac=014169ded5d89b846488696d344182e22bb3ab812821a9e19f0675a73b4a6f60&w=740",
+    "review": "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.",
+    "rating": 4.5,
+    "email": "spetegree1@adobe.com"
+  },
+  {
+    "id": 3,
+    "name": "Joelly Broomhead",
+    "image": "https://img.freepik.com/free-photo/confident-european-businessman-smiling-closeup-portrait-jobs-career-campaign_53876-128975.jpg?t=st=1649082134~exp=1649082734~hmac=2dd2164bf50298cf4f0d2a8587254cc5c06dfadb46fad94532417fed467bd146&w=740",
+    "review": "Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",
+    "rating": 4.3,
+    "email": "jbroomhead2@nbcnews.com"
+  },
+  {
+    "id": 4,
+    "name": "Judas Ionnidis",
+    "image": "https://img.freepik.com/free-photo/photo-aggressive-confident-adult-man-has-dark-hair-beard-clenches-fist-looks-seriously-doesnt-afford-being-insulted-shows-his-power-wears-spectacles-red-sweater_273609-42210.jpg?t=st=1649082134~exp=1649082734~hmac=a6f4886fa1874509239afa325ff33f35cd70900a7f218374c8f508218ddcf274&w=740",
+    "review": "Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.\n\nMaecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.",
+    "rating": 5,
+    "email": "jionnidis3@youku.com"
+  },
+  {
+    "id": 5,
+    "name": "Elsy Baldetti",
+    "image": "https://img.freepik.com/free-photo/cheerful-indian-businessman-smiling-closeup-portrait-jobs-career-campaign_53876-129417.jpg?t=st=1649082134~exp=1649082734~hmac=dbef5f691e2ac3a5f80bd759f1fba1a680a8e57c82f8a787f6d7af4b721b93cf&w=740",
+    "review": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.",
+    "rating": 4,
+    "email": "ebaldetti4@rediff.com"
+  },
+  {
+    "id": 6,
+    "name": "Martie Papaminas",
+    "image": "https://img.freepik.com/free-photo/indoor-photo-happy-glad-handsome-guy_295783-534.jpg?t=st=1649082134~exp=1649082734~hmac=9ec7a69f959386e3f5d9a22ce48db9cfc9ff4593cce222277995c72d8da9ab96&w=740",
+    "review": "Phasellus in felis. Donec semper sapien a libero. Nam dui.",
+    "rating": 4,
+    "email": "mpapaminas5@cnn.com"
+  },
+  {
+    "id": 7,
+    "name": "Ernesto Casel",
+    "image": "https://img.freepik.com/free-photo/waist-up-portrait-handsome-serious-unshaven-male-keeps-hands-together-dressed-dark-blue-shirt-has-talk-with-interlocutor-stands-against-white-wall-self-confident-man-freelancer_273609-16320.jpg?t=st=1649082354~exp=1649082954~hmac=fb2bf246698157aae0d09948f58d1bcbe406e8c7d91ce50a05940eaaa6cc66f4&w=740",
+    "review": "Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",
+    "rating": 0.42,
+    "email": "ecasel6@weebly.com"
+  },
+  {
+    "id": 8,
+    "name": "Teodoro Kendrew",
+    "image": "https://img.freepik.com/free-photo/photo-attractive-bearded-young-man-with-cherful-expression-makes-okay-gesture-with-both-hands-likes-something-dressed-red-casual-t-shirt-poses-against-white-wall-gestures-indoor_273609-16239.jpg?t=st=1649082354~exp=1649082954~hmac=28156c1d9e824e57ce012591bf050b6c879dd46d630a47e922e8ee85a9a25f6a&w=740",
+    "review": "Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.\n\nSed ante. Vivamus tortor. Duis mattis egestas metus.",
+    "rating": 4.3,
+    "email": "tkendrew7@google.it"
+  },
+  {
+    "id": 9,
+    "name": "Katleen Blamey",
+    "image": "https://img.freepik.com/free-photo/mand-holding-cup_1258-340.jpg?t=st=1649082354~exp=1649082954~hmac=b8395ed18abe4378663db851d91784038a63e670ce7e1533107bb18cc28be7b7&w=740",
+    "review": "In congue. Etiam justo. Etiam pretium iaculis justo.",
+    "rating": 5,
+    "email": "kblamey8@ucla.edu"
+  },
+  {
+    "id": 10,
+    "name": "Dani Gravenor",
+    "image": "https://img.freepik.com/free-photo/smiling-man-white-shirt-typing-text-message-scrolling-feed-social-network-using-smartphone-gray_171337-634.jpg?t=st=1649082354~exp=1649082954~hmac=f437bf0bd1e984b43308daa74ac8f2233312297656a5c75f04fea9470c2b7516&w=740",
+    "review": "Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.\n\nCurabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",
+    "rating": 4,
+    "email": "dgravenor9@berkeley.edu"
+  }
+]
