@@ -8,6 +8,7 @@ function Customlink({ children, to, ...props }) {
   return (
     <div>
       <Link
+        className="px-5 font-bold"
         style={{
           color: match ? "coral" : "white",
           textDecoration: match ? "underline" : "none",

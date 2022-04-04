@@ -20,7 +20,10 @@ const PicChart = () => {
   ];
   return (
     <div>
-      <PieChart width={600} height={400}>
+      <h2 className="text-center py-5 text-lg font-bold text-blue-500">
+        Invensment VS Revenue
+      </h2>
+      <PieChart width={500} height={400}>
         <Pie
           data={data01}
           dataKey="investment"

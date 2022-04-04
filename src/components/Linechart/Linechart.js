@@ -50,9 +50,13 @@ const Linechart = () => {
   ];
   return (
     <div>
+      <h2 className="text-center py-5 text-lg font-bold text-blue-500">
+        {" "}
+        MONTH WISE SELL
+      </h2>
       <LineChart
-        width={730}
-        height={450}
+        width={400}
+        height={350}
         data={data}
         margin={{ top: 5, right: 20, bottom: 5, left: 0 }}
       >

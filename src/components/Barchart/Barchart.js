@@ -62,7 +62,10 @@ const Barchart = () => {
   ];
   return (
     <div>
-      <BarChart width={730} height={450} data={data}>
+      <h2 className="text-center py-5 text-lg font-bold text-blue-500">
+        Invensment VS Revenue
+      </h2>
+      <BarChart width={400} height={350} data={data}>
         <Bar dataKey="investment" fill="#8884d8" />
         <Bar dataKey="sell" fill="#8883d8" />
         <Bar dataKey="revenue" fill="#82ca9d" />

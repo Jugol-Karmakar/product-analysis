@@ -7,10 +7,7 @@ import PicChart from "../PicChart/PicChart";
 
 const Dashboard = () => {
   return (
-    <div className="bg-green-50 p-10">
-      <h2 className="text-3xl text-center font-bold mb-5 text-rose-600">
-        DashBoard
-      </h2>
+    <div className="grid grid-cols-2 g-4 items-center  bg-green-50 p-10">
       <Linechart></Linechart>
       <PicChart></PicChart>
       <Barchart></Barchart>

@@ -55,9 +55,12 @@ const Areachart = () => {
   ];
   return (
     <div>
+      <h2 className="text-center py-5 text-lg font-bold text-blue-500">
+        Invensment VS Revenue
+      </h2>
       <AreaChart
-        width={730}
-        height={450}
+        width={400}
+        height={350}
         data={data}
         margin={{ top: 10, right: 30, left: 0, bottom: 0 }}
       >

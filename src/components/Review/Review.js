@@ -10,7 +10,7 @@ const Review = (props) => {
       .then((data) => setReviews(data));
   }, []);
   return (
-    <div className="bg-orange-200">
+    <div className="bg-green-50">
       <h2 className="text-center text-3xl font-semibold py-3">
         Customer Review
       </h2>
