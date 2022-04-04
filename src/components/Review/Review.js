@@ -1,7 +1,8 @@
 import React, { useEffect, useState } from "react";
 import CustomerReview from "../CustomerReview/CustomerReview";
 
-const Review = () => {
+const Review = (props) => {
+  const { ishome } = props;
   const [reviews, setReviews] = useState([]);
   useEffect(() => {
     fetch("review.json")
