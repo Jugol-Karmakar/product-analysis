@@ -9,7 +9,7 @@ const Header = () => {
         <h2 className="text-white font-bold text-lg">PRODUCT ANALYSIS</h2>
       </div>
       <div className="flex">
-        <Customlink to="/home">Home</Customlink>
+        <Customlink to="/">Home</Customlink>
         <Customlink to="/review">Review</Customlink>
         <Customlink to="/dashboard">Dashboard</Customlink>
         <Customlink to="/blog">Blog</Customlink>
