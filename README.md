@@ -6,8 +6,7 @@ Click Here to Live Link [https://product-analysis-reviewjdev21.netlify.app](http
 
 ## Works Done:
 
-. Show Another Product instead of an iPhone.
-
+- Show Another Product instead of an iPhone
 - Create Customer reviews fake data and used hook to show the same thing twice
 - Added Blogs
 - installed Recharts and shown charts in charts route
