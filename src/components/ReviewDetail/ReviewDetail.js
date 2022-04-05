@@ -5,7 +5,7 @@ const ReviewDetail = (props) => {
   return (
     <div className="bg-white rounded-lg p-4 shadow-lg">
       <div className="p-2 text-center ">
-        <p className="text-base py-3">Review{review}</p>
+        <p className="p-3 text-gray-400 text-base">Review{review}</p>
         <h5 className="text-lg font-semibold">Rating : {rating}</h5>
         <div className="w-20 h-20 overflow-hidden rounded-full my-3 mx-auto">
           <img className="object-cover w-full" src={image} alt="" />

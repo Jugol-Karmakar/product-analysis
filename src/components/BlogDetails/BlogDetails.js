@@ -4,56 +4,77 @@ const BlogDetails = () => {
   return (
     <div className="mx-20">
       <div className="pt-5">
-        <h3 className="text-3xl font-semibold">Context Api</h3>
+        <h3 className="text-3xl font-semibold">Context Api ?</h3>
         <p className="py-8">
-          কনটেক্সট এপিআই হল একটি রিঅ্যাক্ট স্ট্রাকচার যা আপনাকে অনন্য বিবরণ
-          আদান-প্রদান করতে সক্ষম করে এবং আপনার অ্যাপ্লিকেশনের সমস্ত স্তর থেকে
-          প্রপ-ড্রিলিং সমাধানে সহায়তা করে । রিঅ্যাক্ট অ্যাপের জন্য কার্যকরভাবে
-          গ্লোবাল ভেরিয়েবল তৈরি করার একটি উপায় যা চারপাশে পাস করা যেতে পারে।
-          রেডক্স ব্যবহার করে রাজ্য পরিচালনার জন্য প্রসঙ্গটিকে একটি সহজ, হালকা
-          পদ্ধতি হিসাবেও উল্লেখ করা হয়। React.createContext() আপনার প্রয়োজন।
-          এটি একটি ভোক্তা এবং একটি প্রদানকারী প্রদান করে। প্রদানকারী এমন একটি
-          উপাদান যা এটির নাম অনুসারে তার সন্তানদের রাষ্ট্র প্রদান করে। এটি
-          "স্টোর" ধরে রাখবে এবং সেই দোকানের প্রয়োজন হতে পারে এমন সমস্ত উপাদানের
-          পিতামাতা হবে৷ ভোক্তা যেমন এটি ঘটছে এমন একটি উপাদান যা রাষ্ট্রকে গ্রাস
-          করে এবং ব্যবহার করে।
+          Context API is a reactive structure that gives you unique details
+          Enables communication and from all levels of your application
+          Prop-drilling helps solve.React app A way to create variables that can
+          be passed around. Redox A simple, easy way to manage the context using
+          the context Also referred to as. React Context is what you need. It
+          provides a Customer and a Provider. The provider is one The element
+          that gives its child state according to its name. This is the store.
+          Hold and parent of all the components that the store may need It will
+          be 6 Consumers such as this is an ingredient that is consuming satte
+          and Uses.
         </p>
       </div>
       <div className="mt-5">
-        <h3 className="text-3xl font-semibold">Semantic Tag</h3>
+        <h3 className="text-3xl font-semibold">Semantic Tag ?</h3>
         <p className="py-8">
-          একটি Semantic উপাদান ব্রাউজার এবং Developer উভয়ের কাছে এর অর্থ
-          স্পষ্টভাবে বর্ণনা করে। শব্দার্থিক এইচটিএমএল উপাদানগুলি হল যেগুলি
-          মানুষের এবং মেশিন-পাঠযোগ্য উপায়ে তাদের অর্থ স্পষ্টভাবে বর্ণনা করে।
-          header , footer এবং article -এর মতো উপাদানগুলিকে সবকটি শব্দার্থিক বলে
-          মনে করা হয় কারণ তারা উপাদানটির উদ্দেশ্য এবং তাদের ভিতরে থাকা
-          বিষয়বস্তুর ধরন সঠিকভাবে বর্ণনা করে। Non-Semantic উপাদানের উদাহরণ: div
-          এবং span - এর বিষয়বস্তু সম্পর্কে কিছুই বলে না। Semantic উপাদানের
-          উদাহরণ: form , table , এবং article - স্পষ্টভাবে এর বিষয়বস্তু
-          সংজ্ঞায়িত করে।
+          A semantic element clearly defines its meaning to both the browser and
+          the developer. Semantic HTML elements are those that clearly define
+          their meaning in human and machine-readable ways. Elements like
+          header, footer and article are all considered semantic because they
+          accurately describe the purpose of the element and the type of content
+          contained within them. Examples of non-semantic elements: say nothing
+          about the content of div and span. Examples of semantic elements:
+          form, table, and article - clearly define its content.
         </p>
       </div>
       <div>
         <h3 className="text-3xl font-semibold">
-          Inline Block And Inline Block Elements ?
+          Inline , Block And Inline Block Elements ?
         </h3>
-        <div className="mt-8">
-          <h3 className="text-2xl font-semibold">Inline Block Elements : </h3>
-          <p className="pt-4">
-            ইনলাইন-ব্লক উপাদানগুলি ইনলাইন উপাদানগুলির অনুরূপ, ব্যতীত তাদের চারটি
-            দিকে প্যাডিং এবং মার্জিন যোগ করা যেতে পারে। আপনার CSS কোডে প্রদর্শন:
-            ইনলাইন-ব্লক ঘোষণা করতে হবে। ইনলাইন-ব্লক ব্যবহার করার জন্য একটি
-            সাধারণ ব্যবহার হল অনুভূমিকভাবে নেভিগেশন লিঙ্ক তৈরি করা, যেমনটি নীচে
-            দেখানো হয়েছে।
+        <div className="mt-6">
+          <p className="">
+            <strong>Inline</strong> : inline The element doesn't start on a new
+            line and only occupy just the width it requires. You can't set the
+            width or height.
+            <h4>
+              <strong>Emaxple :</strong>
+            </h4>
+            <li>span</li>
+            <li>a</li>
+            <li>img</li>
+            <li>small</li>
+            <li>i</li>
           </p>
         </div>
-        <div className="mt-8">
-          <h3 className="text-2xl font-semibold">Inline Block : </h3>
-          <p className="pt-4">
-            একটি ইনলাইন-ব্লক উপাদান একটি ইনলাইন উপাদান হিসাবে স্থাপন করা হয়
-            (সংলগ্ন সামগ্রীর মতো একই লাইনে), তবে এটি একটি ব্লক উপাদান হিসাবে
-            আচরণ করে। ইনলাইন-ব্লক হল তালিকা আইটেমগুলিকে উল্লম্বভাবে পরিবর্তে
-            অনুভূমিকভাবে প্রদর্শন করা।
+        <div className="mt-6">
+          <p className="">
+            <strong>Block</strong> : block The element will start on a new line
+            and occupy the full width available. And you can set width and
+            height values. Block, the major difference is that inline-block does
+            not add a line-break after the element, so the element can sit next
+            to other elements.
+            <h4>
+              <strong>Exmaple :</strong>
+            </h4>
+            <li>div </li>
+            <li>h1</li>
+            <li> p</li>
+            <li> p</li>
+            <li> li</li>
+            <li> section</li>
+          </p>
+        </div>
+        <div className="mt-6">
+          <p className="">
+            <strong>Inline-Block</strong> : inline-block It's formatted just
+            like the inline element, where it doesn't start on a new line. But,
+            you can set width and height.inline-block, the top and bottom
+            margins/paddings are respected, but with display inline they are
+            not.
           </p>
         </div>
       </div>

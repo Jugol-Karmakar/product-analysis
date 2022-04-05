@@ -1,14 +1,9 @@
-import React, { useEffect, useState } from "react";
+import useReview from "../Hooks/useReview";
 import ReviewDetail from "../ReviewDetail/ReviewDetail";
 
 const Review = (props) => {
   const { isHome } = props;
-  const [reviews, setReviews] = useState([]);
-  useEffect(() => {
-    fetch("review.json")
-      .then((res) => res.json())
-      .then((data) => setReviews(data));
-  }, []);
+  const [reviews, setReviews] = useReview();
 
   return (
     <div className="bg-green-50">
