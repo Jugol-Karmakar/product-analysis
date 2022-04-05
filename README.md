@@ -1,10 +1,16 @@
-# Getting Started with Create React App
+# Product Analysis
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## [Live site Link](https://product-analysis-reviewjdev21.netlify.app)
 
-## Available Scripts
+Click Here to Live Link [https://product-analysis-reviewjdev21.netlify.app](https://product-analysis-reviewjdev21.netlify.app)
 
-In the project directory, you can run:
+## Works Done:
+
+. Show Another Product instead of an iPhone.
+
+- Create Customer reviews fake data and used hook to show the same thing twice
+- Added Blogs
+- installed Recharts and shown charts in charts route
 
 ### `npm start`
 
