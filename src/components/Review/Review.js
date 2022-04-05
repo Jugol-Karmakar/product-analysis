@@ -6,7 +6,7 @@ const Review = (props) => {
   const [reviews, setReviews] = useReview();
 
   return (
-    <div className="bg-green-50">
+    <div className="bg-green-50 min-h-screen">
       <h2 className="text-center text-3xl font-semibold py-3">
         Customer Review
       </h2>

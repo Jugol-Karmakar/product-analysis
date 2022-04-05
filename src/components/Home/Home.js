@@ -8,7 +8,7 @@ const Home = () => {
     <div>
       <Hero></Hero>
       <Review isHome></Review>
-      <div className="text-center bg-green-50 pb-36">
+      <div className="bg-green-50 text-center pb-16">
         <Link to="/review">
           <button className="bg-green-500 hover:bg-green-600 text-white font-semibold px-5 py-3 text-lg">
             See All Review
